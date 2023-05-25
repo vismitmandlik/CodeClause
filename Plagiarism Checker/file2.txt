@@ -1,0 +1,3 @@
+This is the content of text file 2.
+It also contains some unique sentences.
+The purpose is to test the plagiarism checker.
